@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Strahinja Zoranovic</h1>
 <h3 align="left">A passionate frontend developer from Serbia</h3>
 
-- 🌱 I’m currently learning frameworks such as **React and Next.js**
+- 🌱 I’m currently learning frameworks **React and Next.js**
 
 - 📫 How to reach me **strahinja.zoranovic2@gmail.com**
 
