@@ -2,8 +2,6 @@
 
 ###
 
-<h3 align="center">My portfolio: https://portfolio-stras-projects.vercel.app</h3> 
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -39,3 +37,5 @@
 </div>
 
 ###
+
+<h3 align="center">Check out my portfolio!: https://portfolio-stras-projects.vercel.app</h3> 
