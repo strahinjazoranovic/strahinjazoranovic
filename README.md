@@ -18,6 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
+<h3 align="center">My portfolio: https://portfolio-stras-projects.vercel.app</h3> 
+
 ###
 
 <div align="center">
