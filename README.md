@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Strahinja Zoranovic and I'm a Front-end developer, from Serbia</h2>
+<h2 align="left">Hi 👋! My name is Strahinja Zoranovic and I'm a software developer, from Serbia</h2>
 
 ###
 
