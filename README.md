@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Strahinja Zoranovic and I'm a software developer, from Serbia</h2>
 
-<h3 align="center">Check out my portfolio!: http://loder.it/</h3> 
+<h3 align="center">Check out my portfolio: http://loder.it/</h3> 
 
 ###
 
