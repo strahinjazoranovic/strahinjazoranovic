@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Strahinja Zoranovic and I'm a software developer, from Serbia</h2>
+<h2 align="left">Hi 👋! My name is Strahinja Zoranovic and I'm a software developer</h2>
 
 <h3 align="center">Check out my portfolio: https://portfolio-theta-gilt-76.vercel.app/</h3> 
 
