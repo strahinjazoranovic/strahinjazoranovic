@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋! My name is Strahinja Zoranovic and I'm a software developer</h2>
 
-<h3 align="center">Check out my portfolio: Strah.nl</h3> 
+<h3 align="center">Check out my portfolio: [Strah.nl](http://strah.nl/)</h3> 
 
 ###
 
